@@ -292,6 +292,7 @@ input[type="submit"]:hover {
   padding: 5%;
   text-align: center;
   color: #fff;
+  text-transform: uppercase;
 }
 .footer-content h2 {
   margin: 0;
@@ -300,4 +301,5 @@ input[type="submit"]:hover {
 .footer-content p {
   font-size: 18px;
   font-weight: 300;
+  text-transform: capitalize;
 }
