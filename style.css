@@ -31,6 +31,7 @@ p {
 .button:hover {
   background-image: linear-gradient(tomato, #fc984c);
 }
+/* End of Common area */
 
 /* Header and Manue area */
 .header-area {
@@ -74,6 +75,8 @@ p {
   height: 62px;
 }
 
+/* End of Header and Menu area */
+
 /* Intor Area */
 #intor::after {
   content: "";
@@ -109,6 +112,7 @@ p {
   float: right;
   max-width: 100%;
 }
+/* End of Intro area */
 
 /* About me */
 #about-me::after {
@@ -143,6 +147,7 @@ p {
   color: #828282;
   margin-bottom: 48px;
 }
+/* End of About area */
 
 /* My Reciies */
 .recipies-items::after {
@@ -186,6 +191,8 @@ p {
   font-size: 20px;
 }
 
+/* End of Reciies area */
+
 /* Counter Area */
 .counter-area::after {
   content: "";
@@ -222,6 +229,8 @@ p {
   color: #000;
   padding-bottom: 5%;
 }
+
+/* End of Counter area */
 
 /* Contact Area */
 #countact-us::after {
@@ -292,6 +301,8 @@ input[type="submit"]:hover {
   background-color: #45a049;
 }
 
+/* End of Contact us area */
+
 /* Footer Area */
 .footer-content {
   background: #252525;
@@ -309,3 +320,4 @@ input[type="submit"]:hover {
   font-weight: 300;
   text-transform: capitalize;
 }
+/* End of Footer Area */
