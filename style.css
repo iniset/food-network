@@ -241,6 +241,12 @@ p {
 .contact-form {
   padding: 5% 30%;
 }
+
+.contact-form h2 {
+  font-size: 48px;
+  color: #fff;
+  font-weight: 700;
+}
 input[type="text"] {
   width: 45%;
   padding: 12px 20px;
